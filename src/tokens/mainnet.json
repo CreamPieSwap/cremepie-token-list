@@ -24,7 +24,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "(PoS) Wrapped BTC",
+    "name": "Wrapped BTC",
     "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
     "symbol": "BTC",
     "decimals": 18,
@@ -32,7 +32,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
-    "name": "Wrapped Ether (WETH)",
+    "name": "Wrapped Ether",
     "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
     "symbol": "WETH",
     "decimals": 18,
