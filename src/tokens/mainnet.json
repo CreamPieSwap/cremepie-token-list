@@ -1,11 +1,11 @@
 [
   {
     "name": "CremePieSwap Token",
-    "address": "0xf567245Ee8803617faD551368Df5d86cA79db115",
+    "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
     "symbol": "CPIE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/CremePieSwap/cremepie-token-list/main/images/0xf567245Ee8803617faD551368Df5d86cA79db115.png"
+    "logoURI": "https://raw.githubusercontent.com/CremePieSwap/cremepie-token-list/main/images/0xfad70FD116559914240faB82b0078c4E82a6a1B8.png"
   },
   {
     "name": "Wrapped MATIC",
