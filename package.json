@@ -1,6 +1,6 @@
 {
   "name": "@cremepie/default-token-list",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
